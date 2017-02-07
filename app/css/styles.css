@@ -1,6 +1,7 @@
 @font-face {
   font-family: Gotham;
-  src: url("fonts/GothamRoundedLight.otf") format("opentype"); }
+  src: url("../fonts/GothamRoundedLight.otf") format("opentype"); }
 
 * {
-  font-family: "Gotham"; }
+  font-family: "Gotham";
+  background-color: honeydew; }
